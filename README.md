@@ -6,3 +6,5 @@
 リポジトリをclone後にパスワードつきzipファイルを所定のパスワードを使用し解凍してご使用ください。
 zipのみのダウンロードリンクも用意しておきます。
 
+https://github.com/mitixx/auto-vue-dgbk/releases/tag/1.0
+Assets内auto-vue-dgbkzip.zipをクリックすると直接ダウンロードできます。
